@@ -1,0 +1,34 @@
+# Greed
+## Typography & Brand Identity
+
+**Concept:** Bold typographic treatment exploring themes of ambition and excess
+
+### Design Philosophy
+Greed represents a bold exploration of typography as a medium for expressing complex human emotions and societal themes.
+
+### Typography Features
+- **Custom Typeface:** Hand-crafted letterforms with unique character
+- **Variable Fonts:** Dynamic weight and style variations
+- **Experimental Layouts:** Pushing boundaries of traditional typography
+- **Color Psychology:** Strategic use of color to convey emotion
+- **Motion Typography:** Animated text treatments and transitions
+
+### Applications
+- **Brand Identity:** Corporate and personal branding projects
+- **Editorial Design:** Magazine and publication layouts
+- **Digital Media:** Web and mobile typography systems
+- **Print Design:** Poster and print advertising campaigns
+- **Motion Graphics:** Animated typography for video content
+
+### Creative Process
+- Extensive research and conceptual development
+- Hand-drawn sketches and digital refinement
+- Multiple iterations and user testing
+- Cross-platform compatibility testing
+- Performance optimization for web delivery
+
+### Recognition
+- Featured in Typography Annual 2024
+- Winner of Design Excellence Award
+- Used by 100+ brands worldwide
+- 4.9/5 designer rating
