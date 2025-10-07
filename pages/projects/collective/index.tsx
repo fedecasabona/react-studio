@@ -11,7 +11,7 @@ Results:  A unique, user-centered web and mobile platform that puts community en
 User Experience
 User interface 
 Brand
-Animation
+Animation`
 
   const images: string[] = [
     '/images/projects/collective/collaboration1.jpg',
