@@ -4,11 +4,11 @@ import ProjectLayout from '../../../components/ProjectLayout'
 export default function ElevenFSProject() {
   const description = `Creating a content hub.
 
-11:FS builds next-generation propositions for challengers in the financial services industry. 
+11:FS builds next-generation propositions for challengers in the financial services industry. 
 
 They sit at the heart of the financial service and fin-tech community with an unparalleled reach through their media channels. 11:FS produce industry leading Podcasts, Videos, Events and Newsletters for existing firms looking to innovate, start-ups looking to scale, and everyone in between.
 
-Visit 11:FS Content hub https://11fs.com/content-hub/
+Visit 11:FS Content hub https://11fs.com/content-hub/`
 
   const images: string[] = [
     '/images/projects/11fs/content1.jpg',
