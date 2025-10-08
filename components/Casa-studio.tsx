@@ -276,13 +276,13 @@ const Portfolio = () => {
             FEDE CASABONA + PRODUCT DESIGNER + AI PROTOTYPE + 10Y OF EXP + SUPER IC + MOTION + BRANDING + STRATEGY + CONCEPT + VISUAL +
           </span>
           <span className="marquee-text uppercase tracking-widest" style={{ paddingRight: '2rem' }}>
-            FEDE CASABONA + PRODUCT DESIGNER + AI PROTOTYPE + 10Y OF EXP + SUPER IC + MOTION + BRANDING + STRATEGY + CONCEPT + VISUAL +
+            FEDE CASABONA + ビジュアルデザイナー + AI PROTOTYPE + 10Y OF EXP + SUPER IC + MOTION + BRANDING + STRATEGY + CONCEPT + VISUAL +
           </span>
           <span className="marquee-text uppercase tracking-widest" style={{ paddingRight: '2rem' }}>
             FEDE CASABONA + PRODUCT DESIGNER + AI PROTOTYPE + 10Y OF EXP + SUPER IC + MOTION + BRANDING + STRATEGY + CONCEPT + VISUAL +
           </span>
           <span className="marquee-text uppercase tracking-widest" style={{ paddingRight: '2rem' }}>
-            FEDE CASABONA + PRODUCT DESIGNER + AI PROTOTYPE + 10Y OF EXP + SUPER IC + MOTION + BRANDING + STRATEGY + CONCEPT + VISUAL +
+            FEDE CASABONA + ビジュアルデザイナー + AI PROTOTYPE + 10Y OF EXP + SUPER IC + MOTION + BRANDING + STRATEGY + CONCEPT + VISUAL +
           </span>
         </div>
       </div>
